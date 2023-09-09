@@ -1,0 +1,11 @@
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\bin\Debug\ChuanBi.exe.config
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\bin\Debug\ChuanBi.exe
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\bin\Debug\ChuanBi.pdb
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\obj\Debug\ChuanBi.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\obj\Debug\ChuanBi.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\obj\Debug\ChuanBi.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\obj\Debug\ChuanBi.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\obj\Debug\ChuanBi.exe
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\obj\Debug\ChuanBi.pdb
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\obj\Debug\ChuanBi.Form1.resources
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi\ChuanBi\obj\Debug\ChuanBi.ListBox.resources

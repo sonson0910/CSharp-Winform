@@ -1,0 +1,10 @@
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\bin\Debug\messageBoxok.exe.config
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\bin\Debug\messageBoxok.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\bin\Debug\messageBoxok.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\obj\Debug\messageBoxok.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\obj\Debug\messageBoxok.Form1.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\obj\Debug\messageBoxok.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\obj\Debug\messageBoxok.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\obj\Debug\messageBoxok.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\obj\Debug\messageBoxok.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\messageBoxok\messageBoxok\obj\Debug\messageBoxok.pdb

@@ -1,0 +1,10 @@
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\bin\Debug\hscrolling.exe.config
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\bin\Debug\hscrolling.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\bin\Debug\hscrolling.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\obj\Debug\hscrolling.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\obj\Debug\hscrolling.Form1.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\obj\Debug\hscrolling.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\obj\Debug\hscrolling.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\obj\Debug\hscrolling.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\obj\Debug\hscrolling.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\hscrolling\hscrolling\obj\Debug\hscrolling.pdb

@@ -1,0 +1,16 @@
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\bin\Debug\net6.0-windows\ChuanBi.exe
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\bin\Debug\net6.0-windows\ChuanBi.deps.json
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\bin\Debug\net6.0-windows\ChuanBi.runtimeconfig.json
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\bin\Debug\net6.0-windows\ChuanBi.dll
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\bin\Debug\net6.0-windows\ChuanBi.pdb
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.Form1.resources
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.AssemblyInfoInputs.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.AssemblyInfo.cs
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.dll
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\refint\ChuanBi.dll
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.pdb
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ChuanBi.genruntimeconfig.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi5\ChuanBi\ChuanBi\obj\Debug\net6.0-windows\ref\ChuanBi.dll

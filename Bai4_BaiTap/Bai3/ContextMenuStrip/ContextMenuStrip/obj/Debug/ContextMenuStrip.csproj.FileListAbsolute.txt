@@ -1,0 +1,10 @@
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe.config
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.Form1.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.pdb

@@ -1,0 +1,16 @@
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\bin\Debug\net6.0-windows\CheckBox.exe
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\bin\Debug\net6.0-windows\CheckBox.deps.json
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\bin\Debug\net6.0-windows\CheckBox.runtimeconfig.json
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\bin\Debug\net6.0-windows\CheckBox.dll
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\bin\Debug\net6.0-windows\CheckBox.pdb
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.Form1.resources
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.AssemblyInfoInputs.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.AssemblyInfo.cs
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.dll
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\refint\CheckBox.dll
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.pdb
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\CheckBox.genruntimeconfig.cache
+D:\C#\UTC\Bai1_1\Bai3\ChuanBi6\CheckBox\CheckBox\obj\Debug\net6.0-windows\ref\CheckBox.dll

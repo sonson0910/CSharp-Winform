@@ -1,0 +1,10 @@
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe.config
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\bin\Debug\CheckListBox.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\obj\Debug\CheckListBox.Form1.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\obj\Debug\CheckListBox.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\obj\Debug\CheckListBox.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\CheckListBox\CheckListBox\obj\Debug\CheckListBox.pdb

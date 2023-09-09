@@ -1,0 +1,10 @@
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\bin\Debug\FormBanSach.exe.config
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\bin\Debug\FormBanSach.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\bin\Debug\FormBanSach.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\obj\Debug\FormBanSach.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\obj\Debug\FormBanSach.Form1.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\obj\Debug\FormBanSach.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\obj\Debug\FormBanSach.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\obj\Debug\FormBanSach.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\obj\Debug\FormBanSach.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\FormBanSach\FormBanSach\obj\Debug\FormBanSach.pdb

@@ -1,0 +1,10 @@
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe.config
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\bin\Debug\MenuStrip.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MenuStrip\MenuStrip\obj\Debug\MenuStrip.mnu1.resources

@@ -1,0 +1,15 @@
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\bin\Debug\MediaPlay.exe.config
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\bin\Debug\MediaPlay.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\bin\Debug\MediaPlay.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\bin\Debug\Interop.WMPLib.dll
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\MediaPlay.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\Interop.WMPLib.dll
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\MediaPlay.csproj.ResolveComReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\MediaPlay.Form1.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\MediaPlay.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\MediaPlay.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\MediaPlay.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\MediaPlay.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\MediaPlay\MediaPlay\obj\Debug\MediaPlay.pdb

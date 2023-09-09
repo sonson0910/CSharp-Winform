@@ -1,0 +1,10 @@
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\bin\Debug\Numbericdown.exe.config
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\bin\Debug\Numbericdown.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\bin\Debug\Numbericdown.pdb
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\obj\Debug\Numbericdown.csproj.AssemblyReference.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\obj\Debug\Numbericdown.Form1.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\obj\Debug\Numbericdown.Properties.Resources.resources
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\obj\Debug\Numbericdown.csproj.GenerateResource.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\obj\Debug\Numbericdown.csproj.CoreCompileInputs.cache
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\obj\Debug\Numbericdown.exe
+D:\C#\UTC\Bai1_1\Bai4_BaiTap\Bai3\Numbericdown\Numbericdown\obj\Debug\Numbericdown.pdb
